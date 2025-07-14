@@ -1,0 +1,62 @@
+[
+  {
+    "content": "Analyze current codebase structure and job execution flow",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Design simple cancellation mechanism",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Plan cleanup strategy for cancelled jobs",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Propose implementation approach",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Add context.Context to Transaction and Operation interfaces",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Implement signal handling in main.go",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Add cancellation check points in execution flow",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Add ErrCancelled error type and handling",
+    "status": "completed",
+    "priority": "medium",
+    "id": "8"
+  },
+  {
+    "content": "Update progress reporter for cancellation status",
+    "status": "completed",
+    "priority": "medium",
+    "id": "9"
+  },
+  {
+    "content": "Add tests for cancellation scenarios",
+    "status": "completed",
+    "priority": "medium",
+    "id": "10"
+  }
+]

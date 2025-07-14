@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Create a new branch for the changes",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Commit the staged changes",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Push the branch to remote",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Create a pull request",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  }
+]

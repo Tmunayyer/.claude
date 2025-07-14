@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Create a minimal exiftool mock that returns predictable metadata",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Refactor TestReadCmd to use real files with tempfs",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Refactor TestCopyCmd to use real files with tempfs",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Add TestMoveCmd with real file operations",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Add tests for edge cases (empty dirs, permissions, etc)",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Remove the old mockFiles struct and related code",
+    "status": "completed",
+    "priority": "low",
+    "id": "6"
+  }
+]

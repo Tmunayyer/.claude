@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Research Expo-compatible iCloud backup libraries and config plugins",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Investigate custom native module options for iCloud within Expo",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Evaluate react-native-cloud-storage compatibility with Expo",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Research EAS Build capabilities for custom iOS entitlements and iCloud",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Analyze feasibility of building custom iCloud module with Expo Modules API",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Compare effort vs reliability trade-offs for Expo + custom iCloud vs native iOS",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Update analysis document with iCloud solution findings",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  }
+]

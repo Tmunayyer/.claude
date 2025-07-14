@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Create new branch for build setup changes",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Stage and commit all changes including .claude folder",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Push branch to remote",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Create pull request",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  }
+]

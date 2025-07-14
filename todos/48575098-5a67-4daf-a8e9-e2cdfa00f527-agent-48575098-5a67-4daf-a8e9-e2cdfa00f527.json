@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Create .goreleaser.yml for proper versioned releases",
+    "status": "pending",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add Makefile with install target that uses ldflags",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Document proper installation methods",
+    "status": "pending",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Test installation methods work correctly",
+    "status": "pending",
+    "priority": "medium",
+    "id": "4"
+  }
+]

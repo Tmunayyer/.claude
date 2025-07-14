@@ -1,0 +1,92 @@
+[
+  {
+    "content": "Discuss application concept and gather requirements",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Define core features: chore checklists and inventory tracking",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Design user roles: Manager (full access) and Consumer (read-only + checklist completion)",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Research modern iOS/macOS development stack options",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Research CloudKit vs Firebase for data sync",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Make final platform strategy recommendation",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Design Firebase data structure for households",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Plan authentication and invitation flow",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  },
+  {
+    "content": "Design SwiftUI app architecture",
+    "status": "completed",
+    "priority": "high",
+    "id": "9"
+  },
+  {
+    "content": "Plan Firebase Security Rules for role enforcement",
+    "status": "completed",
+    "priority": "high",
+    "id": "10"
+  },
+  {
+    "content": "Create detailed SwiftData models",
+    "status": "completed",
+    "priority": "high",
+    "id": "11"
+  },
+  {
+    "content": "Design core ViewModels with Combine",
+    "status": "completed",
+    "priority": "high",
+    "id": "12"
+  },
+  {
+    "content": "Plan Firebase service layer",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "13"
+  },
+  {
+    "content": "Design key SwiftUI views",
+    "status": "pending",
+    "priority": "high",
+    "id": "14"
+  },
+  {
+    "content": "Plan project setup and dependencies",
+    "status": "pending",
+    "priority": "medium",
+    "id": "15"
+  }
+]

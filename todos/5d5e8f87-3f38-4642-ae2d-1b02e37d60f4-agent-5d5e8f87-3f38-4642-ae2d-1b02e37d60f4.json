@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Research native iOS development approaches (Swift/SwiftUI)",
+    "status": "completed",
+    "priority": "high",
+    "id": "tech_1"
+  },
+  {
+    "content": "Investigate cross-platform frameworks for iOS/macOS expansion",
+    "status": "completed",
+    "priority": "high",
+    "id": "tech_2"
+  },
+  {
+    "content": "Analyze local storage solutions for offline-first architecture",
+    "status": "completed",
+    "priority": "medium",
+    "id": "tech_3"
+  },
+  {
+    "content": "Research rich media handling for photos/videos on iOS",
+    "status": "completed",
+    "priority": "medium",
+    "id": "tech_4"
+  },
+  {
+    "content": "Document findings in docs/technical_research.md",
+    "status": "completed",
+    "priority": "high",
+    "id": "tech_5"
+  }
+]
