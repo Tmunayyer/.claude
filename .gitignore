@@ -1,6 +1,27 @@
+# Runtime/session data
 ide/
 projects/
 shell-snapshots/
+session-env/
 statsig/
 todos/
 temp/
+telemetry/
+
+# Personal data & history
+history.jsonl
+settings.local.json
+debug/
+file-history/
+plans/
+
+# Cache & temp files
+stats-cache.json
+*.tmp
+
+# Plugin runtime data (keep config.json and repos/)
+plugins/cache/
+plugins/install-counts-cache.json
+plugins/installed_plugins.json
+plugins/known_marketplaces.json
+plugins/marketplaces/
