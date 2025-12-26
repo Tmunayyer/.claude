@@ -1,11 +1,9 @@
 ---
-allowed-tools: Read, Glob, Grep, Task, TodoWrite
+allowed-tools: Read, Glob, Grep, Task, TodoWrite, EnterPlanMode
 description: Plan with memory - consults mnemosyne before finalizing
 model: opus
 ---
 
-Plan the following task, but before finalizing your plan, consult the
-mnemosyne skill at ~/.claude/skills/mnemosyne/SKILL.md and review
-your plan against any relevant lessons.
+Use the EnterPlanMode tool to begin planning the following task. Before finalizing your plan, consult mnemosyne at ~/.claude/skills/mnemosyne/SKILL.md and review against any relevant lessons.
 
 Task: $ARGUMENTS
